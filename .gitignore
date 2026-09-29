@@ -1,0 +1,12 @@
+# EduGenie - Environment and Python artifacts
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.idea/
+.vscode/
+*.log
+.DS_Store
